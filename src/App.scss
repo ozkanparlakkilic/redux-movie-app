@@ -7,25 +7,15 @@
   font-family: "Open Sans" , sans-serif;
 }
 
-html{
-  height: 100%;
-}
-
 body {
   background: $primary-color;
-  height: 100%;
 }
 
 a {
   text-decoration: none;
 }
 
-#root {
-  height: 100%;
-}
-
 .app{
-  height: 100%;
   display: flex;
   flex-direction: column;
 }
